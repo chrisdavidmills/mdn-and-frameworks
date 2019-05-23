@@ -12,7 +12,7 @@ MDN has great docs on the JavaScript language, and native browser APIs, but we t
 3. Framework vendors tend to have their own established documentation, so it would be a waste of effort repeating such content on MDN.
 4. MDN tries to be an unbiased source of truth for the web platform. It is easy to come under fire with accusations of bias if you start to cover frameworks (and this has happened before for comparatively minor coverage).
 
-###Future direction
+### Future direction
 
 However, the reality is that frameworks are used extensively for real world web development.
 
@@ -21,10 +21,6 @@ In talks with web development educations (e.g. lecturers at universities), we’
 This is far more useful than just teaching students the framework du jour, for obvious reasons.
 
 Could we provide useful framework content on MDN that sits alongside the raw web standards content and is maintainable?
-
-## Questions to answer
-
-*  How many web developers find MDN to be of limited use because we don’t cover frameworks?
 
 ## Aims of the project
 ### From MDN's perspective
@@ -107,6 +103,10 @@ We need a way to test this, so that if it doesn't work we can remove it again wi
 Rather than add the content statically to each relevant document, I propose that we create the asides in some kind of a structured data source that can be dynamically added to relevant pages via a macro, in the same way as our [browser compat data](https://github.com/mdn/browser-compat-data) tables.
 
 This way, we could also use the data in other places. We could populate MDN with useful framework content, but also use it to build say a set of React FAQ pages, which the community could work on to keep up-to-date.
+
+## Next steps
+
+*  Find out how many web developers find MDN to be of limited use because we don’t cover frameworks?
 
 
 ## See also 
