@@ -103,6 +103,8 @@ Rather than add the content statically to each relevant document, I propose that
 
 This way, we could also use the data in other places. We could populate MDN with useful framework content, but also use it to build say a set of React FAQ pages, which the community could work on to keep up-to-date.
 
+The experimental [MDN Stumptown project](https://github.com/mdn/stumptown-experiment) does a similar thing and then pulls together the pages using yaml and Python. Eventually my frameworks idea could be pulled into that.  
+
 ## Next steps
 
 *  Interview web developers about framework content on MDN. 
