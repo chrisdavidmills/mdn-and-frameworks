@@ -1,0 +1,18 @@
+{
+  "entries": {
+    "react": {
+      "conditional_content": {
+        "title": "Conditional rendering of content",
+        "min_version": "1.0",
+        "max_version": null,
+        "status": "active",
+        "tags": [
+          "conditional",
+          "ternary",
+          "operator"
+        ],
+        "body": "<p>In a React component, the conditional operator can be used as a convenient way to conditionally render content. For example, in the below snippet the <code>LoginBanner</code> is rendered to say that the user is or isn't logged in, depending on whether the <code>isLoggedIn</code> property is set to <code>true</code> or <code>false</code>. A conditional operator is used to test the property value and make the choice of rendering.</p><pre class='brush: js'>class LoginBanner extends Component {\n  constructor(props) {\n    super(props);\n  }\n\n  render() {\n    return (\n    &lt;p&gt;\n      The user is &lt;strong&gt;{this.props.isLoggedIn ? 'currently' : 'not'}&lt;/strong&gt; logged in.\n    &lt;/p&gt;\n    );\n  }\n}\n\nclass App extends Component {\n  render() {\n    return (\n    &lt;LoginBanner isLoggedIn={false} /&gt;\n    );\n  }\n}</pre>"
+      }
+    }
+  }
+}

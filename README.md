@@ -61,10 +61,9 @@ We could interview web developers, asking questions like:
 We could also ask framework vendors what their most common pain points are with people learning their frameworks, in terms of:
 
 * Web platform features that don’t work well inside frameworks
-* Visibility of features...
-* etc.
-
-What are your FAQs?
+* Visibility of features
+* Knowing when a feature is obsolete, so should no longer be used.
+* What their FAQs are
 
 ### Creating a guide to modern JS tooling
 The MDN [Learning area](https://developer.mozilla.org/en-US/docs/Learn) is our place on MDN for complete beginners to get started. We believe that learning code from the ground up is the best way to start, so we lead with courses in raw HTML, CSS, and JavaScript.
@@ -106,8 +105,12 @@ This way, we could also use the data in other places. We could populate MDN with
 
 ## Next steps
 
-*  Find out how many web developers find MDN to be of limited use because we don’t cover frameworks?
-
+*  Interview web developers about framework content on MDN. 
+*  Interview framework vendors about framework content on MDN.
+*  Agree on JSON schema for holding the data
+* Get some contacts at frameworks who are willing to help put together a number of sample entries.
+* Create a test macro on MDN to start putting some of this data on pages, then send it to some reviewers to see what people think.
+* Find some authors to help create a learning area guide to modern tools.
 
 ## See also 
 * [MDN and framework content](https://docs.google.com/document/d/1Pmeu90QQXXdivIPVhIGZilT2n1PgpBGSeOVm3DQ2W7I/edit#heading=h.yw4sygim7yyb) for initial thoughts, background, and ideas.
