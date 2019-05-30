@@ -32,7 +32,7 @@ Could we provide useful framework content on MDN that sits alongside the raw web
 * Better docs availability?
 * Allow core devs to spend more time coding framework bug fixes and enhancements, and less time answering queries. 
 
-## Ricks of the project
+## Risks of the project
 * Lack of interest
 * Overhead of reviewing and maintaining the content
 * Consistency of content
@@ -117,4 +117,4 @@ The experimental [MDN Stumptown project](https://github.com/mdn/stumptown-experi
 ## See also 
 * [MDN and framework content](https://docs.google.com/document/d/1Pmeu90QQXXdivIPVhIGZilT2n1PgpBGSeOVm3DQ2W7I/edit#heading=h.yw4sygim7yyb) for initial thoughts, background, and ideas.
 * [MDN and Frameworks exploration](https://docs.google.com/document/d/1mgQda73zBuWHJsr1kjDPmEIZFWgHiLKVVu6KGTmyFgo/edit#) for further ideas and reesearch
-* [Framework tests and research](https://developer.mozilla.org/en-US/docs/User:chrisdavidmills/Framework_tests_and_research) for early examples of what the cotnent might look like on MDN pages.
+* [Framework tests and research](https://developer.mozilla.org/en-US/docs/User:chrisdavidmills/Framework_tests_and_research) for early examples of what the content might look like on MDN pages.
